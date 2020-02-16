@@ -3,7 +3,7 @@
   "displayName": "Auto Rename Tag",
   "description": "Auto rename paired HTML/XML tag",
   "version": "0.1.1",
-  "publisher": "formulahendry",
+  "publisher": "SimonSiefke",
   "icon": "images/logo.png",
   "engines": {
     "vscode": "^1.41.1"
@@ -20,15 +20,6 @@
     "xml",
     "multi-root ready"
   ],
-  "bugs": {
-    "url": "https://github.com/formulahendry/vscode-auto-rename-tag/issues",
-    "email": "formulahendry@gmail.com"
-  },
-  "homepage": "https://github.com/formulahendry/vscode-auto-rename-tag/blob/master/README.md",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/formulahendry/vscode-auto-rename-tag.git"
-  },
   "activationEvents": [
     "*"
   ],
